@@ -1,5 +1,3 @@
-![RichardFoto](https://avatars.githubusercontent.com/u/143139149?u=30c63a2b96abcf42db7ca0e05cf00ec416adf157&v=4)
-
 # **Richard Gabriel Ratis**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=F7F7F7&background=FF0202&center=true&vCenter=true&width=435&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
