@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=F7F7F7&background=FF0202&center=true&vCenter=true&width=435&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-````
+
 Sou profissional de Marketing Digital especializado em tráfego pago, busco aprimorar o meu conhecimento no meio digital e acredito que o desenvolvimento traz muitas oportunidades para isto.
 Atualmente faço parte do time de marketing de uma multinacional de outsourcing de TI, onde tenho a oportunidade de colocar em prática o conhecimento adquirido dentro da área de desenvolvimento.
-````
+
 ---
  ## 🔌 **Conexões:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/richard-gabriel-ratis-cavalcanti-967099103/)
